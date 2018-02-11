@@ -1,0 +1,2 @@
+# android sdk
+export PATH="$PATH:/media/Data/Code/Android/linux-sdk/platform-tools"
